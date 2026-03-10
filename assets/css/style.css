@@ -640,10 +640,10 @@ small {
                0 0 12px rgba(144,224,239,0.4);
 }
 #intro h2{
-  margin-bottom: 10px;
+  margin-bottom: 8px;
 }
 
-#intro h3,
-#intro h4{
+#intro h3{
   margin-top: 0;
+  line-height: 1.2;
 }
