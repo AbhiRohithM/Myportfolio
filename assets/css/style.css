@@ -78,9 +78,9 @@
   background-color: black; 
 } 
 
-.typing-text{
-color:#90E0EF;
-font-weight:500;
+.typing{
+  color: #48CAE4;
+  font-weight: 500;
 }
 
 /* Buttons - Read Me, Contact Us */ 
