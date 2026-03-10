@@ -639,3 +639,11 @@ small {
   text-shadow: 0 0 6px rgba(144,224,239,0.7),
                0 0 12px rgba(144,224,239,0.4);
 }
+#intro h2{
+  margin-bottom: 10px;
+}
+
+#intro h3,
+#intro h4{
+  margin-top: 0;
+}
