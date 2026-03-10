@@ -632,8 +632,10 @@ small {
   } 
 } 
 .typing{
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: 300;
   color:#90E0EF !important;
-  font-weight:500;
-  text-shadow: 0 0 5px rgba(144,224,239,0.6),
-               0 0 10px rgba(144,224,239,0.4);
+  text-shadow: 0 0 6px rgba(144,224,239,0.7),
+               0 0 12px rgba(144,224,239,0.4);
 }
